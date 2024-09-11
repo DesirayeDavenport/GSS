@@ -36,6 +36,9 @@ Question is gun ownership independent of opnion on capital punishment?
 $H_O$: gun ownership and opnion on punishemts are not related
 
 $H_A$: gun ownership and opnion on capitol punushment are related 
+
+
+OWNGUN ~ CAPPUN both are categorical, thus id use CAT~CAT
 ##Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
